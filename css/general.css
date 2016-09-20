@@ -283,7 +283,9 @@ color: #ECEBEB;
 	margin-top: 10px;
 }
 
-
+.contact-number{
+    color: #FF0000
+}
 .network-name {
 	font-size: 14px;
 	font-weight: 400;
@@ -295,6 +297,9 @@ color: #ECEBEB;
 	padding: 90px 0; 
 }
 
+#contact{
+    padding: 90px 0 250px 0; 
+}
 .content-section-b {
 	border-top: 1px solid #e7e7e7;
 	border-bottom: 1px solid #e7e7e7;
