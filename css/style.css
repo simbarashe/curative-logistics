@@ -283,9 +283,12 @@ h6 small,
   color: #e7e9ec;
 }
 h1,
-h2,
 h3 {
   margin-top: 30px;
+  margin-bottom: 5px;
+}
+h2 {
+  margin-top: 5px;
   margin-bottom: 5px;
 }
 h4,
@@ -299,11 +302,11 @@ h6 {
 }
 h1,
 .h1 {
-  font-size: 80px;
+  font-size: 48px;
 }
 h2,
 .h2 {
-  font-size: 63px;
+  font-size: 22px;
 }
 h3,
 .h3 {
@@ -322,9 +325,9 @@ li{list-style-type:none}
 .white {color:white}
 .hidden { visibility: hidden;}
 .lead {
-  margin-bottom: 30px;
-  margin-top: 20px;
-  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-size: 16px;
   line-height: 1.46428571;
   font-weight: 300;
 }
